@@ -1,9 +1,19 @@
 # 🖥️ Algorithms in C
 
+![Language](https://img.shields.io/badge/Language-C-blue.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 This repository contains my personal implementations of various algorithms written in **C** during my B.Tech CSE program.  
 Each program is implemented from scratch, focusing on clarity, efficiency, and a deep understanding of the underlying concepts.
 
+
+The aim of this repo is to serve as:
+- A reference for students & learners
+- A personal archive of my DSA journey
+
 ---
+
 
 ## 📂 Contents
 
