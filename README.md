@@ -36,6 +36,8 @@ The aim of this repo is to serve as:
   - Floyd-Warshall Algorithm
   - Kruskal’s Algorithm
   - Prim’s Algorithm
+  - Graph Coloring
+  - Traveling Salesman Problem
 
 - **Other Algorithms**
   - Tower of Hanoi
